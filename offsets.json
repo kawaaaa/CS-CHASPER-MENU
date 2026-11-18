@@ -1,0 +1,15 @@
+{
+  "dwLocalPlayerPawn": 39140664,
+  "dwEntityList": 40931344,
+  "dwGameEntitySystem": 40931344,
+  "dwViewMatrix": 39163456,
+  "m_iHealth": 844,
+  "m_iTeamNum": 999,
+  "m_lifeState": 852,
+  "m_vecAbsOrigin": 200,
+  "m_pGameSceneNode": 816,
+  "m_pEntity": 16,
+  "m_bDormant": 259,
+  "dwForceJump": 89182352,
+  "m_fFlags": 1012
+}
